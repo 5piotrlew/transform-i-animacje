@@ -1,0 +1,24 @@
+img {
+    height: 300px;
+    margin-bottom: 300px;
+}
+
+/*Obrót*/
+
+.rotate img {
+    transform: rotate(20deg);
+}
+
+
+/*Przesunięcie*/
+
+.translate img {
+    transform: translate(200px, 100px);
+}
+
+
+/*Skalowanie*/
+
+.scale img {
+    transform: scale(1.5);
+}
